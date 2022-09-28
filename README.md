@@ -1,7 +1,6 @@
 基于ssm（非maven）学生选课管理系统
 
-本系统已收录公众号【java项目源码】，需要源码请自行扫码一下二维码关注公众号下载
-![公众号二维码](./截图/wechat.png)
+源码下载地址:http://www.manoncode.cn/details?id=53
 
 本系统分为三种权限：
 
